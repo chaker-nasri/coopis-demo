@@ -10,8 +10,8 @@ coopis-demo/
 │     └── dataset.csv    # Dataset used for experiments
 │── requirements.txt     # Python dependencies
 │── report.pdf           # Demo paper / report (optional)
+│── coopis-demo-paper.pdf # Submitted CoopIS 2025 paper
 │── README.md            # Project description (this file)
-
 
 ## Description
 
@@ -30,3 +30,33 @@ Install Python 3.9+ and the dependencies using:
 ```bash
 pip install -r requirements.txt
 ```
+
+## Usage
+
+Open the Jupyter Notebook with:
+
+```bash
+jupyter notebook notebook.ipynb
+```
+
+Run the cells step by step to reproduce the demo, generate predictions, reports, and metrics.
+
+## Report
+
+- A PDF version of the demo results is provided in **report.pdf**.  
+- The submitted CoopIS 2025 demo paper is included as **coopis-demo-paper.pdf**.
+
+## Citation
+
+If you use this repository, dataset, or code in your research, please cite our CoopIS 2025 demo paper:
+
+```bibtex
+@inproceedings{nasri2025coopis,
+  author    = {Chaker Nasri},
+  title     = {Enhancing Model Checking with LSTM-based Intelligent Filtering},
+  booktitle = {Cooperative Information Systems (CoopIS 2025) -- Demo Track},
+  year      = {2025},
+  note      = {Demo Paper},
+}
+```
+
