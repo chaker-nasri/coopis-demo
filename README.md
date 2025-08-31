@@ -52,7 +52,7 @@ If you use this repository, dataset, or code in your research, please cite our C
 
 ```bibtex
 @inproceedings{nasri2025coopis,
-  author    = {Chaker Nasri},
+  author    = {Chaker Nasri and Leila Ben Ayed},
   title     = {Enhancing Model Checking with LSTM-based Intelligent Filtering},
   booktitle = {Cooperative Information Systems (CoopIS 2025) -- Demo Track},
   year      = {2025},
