@@ -1,6 +1,6 @@
 # coopis-demo
 
-This repository contains all materials for the CoopIS 2025 demo paper: a prototype integrating NuSMV with an LSTM-based intelligent filtering system for model checking.
+This repository contains all materials for the CoopIS 2025 demo paper: a prototype integrating NuSMV with an LSTM-based intelligent filtering system for model checking. It contains the dataset used in the paper. The SMV models and dataset generation code are not included; only the resulting dataset is provided.
 
 ## Repository Structure
 
