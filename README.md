@@ -13,7 +13,7 @@ coopis-demo/
 ├── report.pdf            # Demo paper / report (optional)
 ├── coopis-demo-paper.pdf # Submitted CoopIS 2025 paper
 └── README.md             # Project description (this file)
-
+```
 ## Description
 
 This demo system includes:
