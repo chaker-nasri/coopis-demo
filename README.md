@@ -4,14 +4,15 @@ This repository contains all materials for the CoopIS 2025 demo paper: a prototy
 
 ## Repository Structure
 
+```text
 coopis-demo/
-│── notebook.ipynb       # Main Jupyter Notebook with the demo code
-│── data/
-│     └── dataset.csv    # Dataset used for experiments
-│── requirements.txt     # Python dependencies
-│── report.pdf           # Demo paper / report (optional)
-│── coopis-demo-paper.pdf # Submitted CoopIS 2025 paper
-│── README.md            # Project description (this file)
+├── notebook.ipynb        # Main Jupyter Notebook with the demo code
+├── data/
+│   └── dataset.csv       # Dataset used for experiments
+├── requirements.txt      # Python dependencies
+├── report.pdf            # Demo paper / report (optional)
+├── coopis-demo-paper.pdf # Submitted CoopIS 2025 paper
+└── README.md             # Project description (this file)
 
 ## Description
 
