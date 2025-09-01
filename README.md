@@ -14,6 +14,7 @@ coopis-demo/
 ├── coopis-demo-paper.pdf # Submitted CoopIS 2025 paper
 └── README.md             # Project description (this file)
 ```
+**Note:** The SMV models and dataset generation code are not included; only the resulting dataset is provided.
 ## Description
 
 This demo system includes:
